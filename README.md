@@ -1,2 +1,2 @@
 # Beecrowd-URI
- Repostório de resoluções de desafios do URI Online Judge | Beecrowd
+URI Online Judge challenge resolution repository | Beecrowd URI
